@@ -1,0 +1,12 @@
+.buttonContainer{
+ padding: 1rem;
+}
+.defaultButton {
+ display: inline-block;
+ /* margin-bottom: 1rem; */
+ color: orange;
+ background-color: blue;
+ border: none;
+ border-radius: 1rem;
+ padding: 0.5rem 2rem;
+}

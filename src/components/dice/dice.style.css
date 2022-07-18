@@ -1,0 +1,15 @@
+.diceContainer{
+ display: inline;
+ padding: 1rem;
+ background-color: aliceblue;
+ border-radius: 1rem;
+ min-width: 5rem;
+}
+.diceContainer:not(:last-child){
+ margin-right: 1rem;
+}
+
+.holded{
+ background-color: red;
+ color: green;
+}
